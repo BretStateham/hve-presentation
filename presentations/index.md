@@ -20,6 +20,10 @@ What HVE is (the four pillars), what it is NOT (myth busting), and how it helps 
 
 Overview of the microsoft/hve-core repository, installation methods, the RPI methodology, choosing between `rpi-agent` and `task-*` agents, and how HVE Core tracks progress behind the scenes.
 
+### 3. [HVE Core (Quick)](./03-hve-core-quick/hve-core-quick.md)
+
+Condensed version of the HVE Core deck covering the essentials.
+
 ---
 
 ## How to Navigate
