@@ -16,6 +16,10 @@ A collection of presentations for HVE upskilling.
 
 What HVE is (the four pillars), what it is NOT (myth busting), and how it helps teams build enterprise solutions faster — sourced from the HVE Customer FAQ.
 
+### 2. [HVE Core](./02-hve-core/hve-core.md)
+
+Overview of the microsoft/hve-core repository, installation methods, the RPI methodology, choosing between `rpi-agent` and `task-*` agents, and how HVE Core tracks progress behind the scenes.
+
 ---
 
 ## How to Navigate
