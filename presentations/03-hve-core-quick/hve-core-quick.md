@@ -25,6 +25,20 @@ An **open-source framework** from Microsoft ISE with **18 agents**, **17+ instru
 
 ---
 
+## What's Included
+
+| Component        | Count | Purpose                                              |
+|------------------|-------|------------------------------------------------------|
+| 🤖 **Agents**       | 18    | Specialized AI assistants (research, planning, code) |
+| 📏 **Instructions**  | 17+   | Auto-applied coding guidelines via file patterns     |
+| 📝 **Prompts**       | 18    | Reusable templates for commits, PRs, reviews         |
+| 🛠️ **Skills**        | 1     | Executable utilities with cross-platform scripts     |
+| ✅ **Validation**    | CI/CD | JSON schema enforcement for all AI artifacts         |
+
+All components are validated through an enterprise CI/CD pipeline with JSON schema enforcement.
+
+---
+
 ## Getting Started: VS Code Extension
 
 The fastest way to start — zero configuration, works everywhere:
