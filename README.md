@@ -19,6 +19,8 @@ Then open [http://localhost:8080](http://localhost:8080) to browse all presentat
 | # | Topic | Path |
 |---|-------|------|
 | 1 | Introduction to HVE | `presentations/01-introduction/introduction.md` |
+| 2 | HVE Core | `presentations/02-hve-core/hve-core.md` |
+| 3 | HVE Core (Quick) | `presentations/03-hve-core-quick/hve-core-quick.md` |
 
 ## Usage
 
@@ -66,7 +68,7 @@ npm run watch
    ```markdown
    ---
    marp: true
-   theme: default
+   theme: hve
    paginate: true
    ---
 
