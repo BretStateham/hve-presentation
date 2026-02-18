@@ -108,13 +108,15 @@ Common bottlenecks HVE surfaces:
 
 ## How HVE Removes Friction
 
+<!-- _footer: '' -->
+
 | Bottleneck | HVE Approach |
 |------------|-------------|
-| Unclear requirements | AI-assisted transcript → backlog, design thinking workshops |
-| Tribal knowledge | Copilot-assisted documentation, markdown context in repo |
-| AI code goes straight to PR | Expert validation process, comprehension debt awareness |
-| 6+ week cycle times | Value stream mapping to identify where time is lost |
-| Only one person understands the system | Copilot for codebase onboarding, documentation generation |
+| Unclear requirements | AI-assisted transcript → backlog |
+| Tribal knowledge | Copilot-assisted docs, markdown context in repo |
+| AI code straight to PR | Expert validation, comprehension debt awareness |
+| 6+ week cycle times | Value stream mapping to find where time is lost |
+| One person knows the system | Copilot for onboarding, doc generation |
 
 ---
 
