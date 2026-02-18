@@ -14,7 +14,7 @@ A collection of presentations for HVE upskilling.
 
 ### 1. [Introduction to HVE](./01-introduction/introduction.md)
 
-An overview of Hypervelocity Engineering principles, practices, and why they matter for modern software development.
+What HVE is (the four pillars), what it is NOT (myth busting), and how it helps teams build enterprise solutions faster — sourced from the HVE Customer FAQ.
 
 ---
 
