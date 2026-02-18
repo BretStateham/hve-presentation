@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: default
+theme: hve
 paginate: true
 header: 'HVE: Introduction'
 footer: 'Hypervelocity Engineering'

@@ -27,3 +27,4 @@ Thumbs.db
 # Build artifacts from watch mode
 presentations/**/*.html
 presentations/**/*.pdf
+presentations/**/*.pptx
