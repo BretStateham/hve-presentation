@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Build output
+public/
+dist/
+
+# Temporary files
+/tmp
+*.tgz
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files (except VS Code config)
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# Environment
+.env
+
+# RPI tracking
+.copilot-tracking/
+
+# Build artifacts from watch mode
+presentations/**/*.html
+presentations/**/*.pdf

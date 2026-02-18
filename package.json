@@ -1,0 +1,27 @@
+{
+  "name": "hve-presentation",
+  "version": "1.0.0",
+  "description": "Presentation materials for \"Hypervelocity Engineering\" (HVE) upskilling.",
+  "private": true,
+  "scripts": {
+    "start": "marp -s ./presentations",
+    "build": "marp --input-dir ./presentations --output ./public",
+    "build:pdf": "marp --input-dir ./presentations --pdf --output ./public",
+    "watch": "marp -w ./presentations"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BretStateham/hve-presentation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/BretStateham/hve-presentation/issues"
+  },
+  "homepage": "https://github.com/BretStateham/hve-presentation#readme",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^4.2.3"
+  }
+}
